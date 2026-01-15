@@ -1,0 +1,8 @@
+{
+  "name": "Copy of RahmanAi - The Ultimate All-in-One AI",
+  "description": "A comprehensive AI application featuring a web builder, image studio, media tools, and multi-personality chat modes (Polite and Rude) with a persistent global group chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
